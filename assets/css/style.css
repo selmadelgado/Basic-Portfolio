@@ -1,5 +1,39 @@
+/* GENERAL STYLES */
+body {
+    font-family:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #242727;
+}
+
+h1, h2 {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+/* NAVIGATION STYLES */
+
+.nav-items {
+    display: inline-block;
+    float: right;
+}
+
+.nav-items ul li {
+  
+    display: inline-block;
+    margin: 0 5px 0 5px;
+}
+
+.nav-items  ul li a {
+    color: #242727;
+    text-decoration: none;
+}
+
 #profile-pic {
     width: 33%;
     float: left;
     margin-right: 20px;
+}
+
+footer {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: 
 }
