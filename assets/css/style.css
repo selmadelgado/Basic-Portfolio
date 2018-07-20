@@ -9,8 +9,9 @@ h1 {
     background-color: #4aaaa5;
     color: #ffffff;
     width: 250px;
-   padding: 15px
-       
+   padding: 15px;
+    float: left;
+    margin: 0px;   
 }
 
 h2 {
