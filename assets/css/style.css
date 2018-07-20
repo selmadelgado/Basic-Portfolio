@@ -63,6 +63,7 @@ section {
 }
 
 .main-section {
+    clear: both;
     width: 960px;
     background-color: #ffffff;
     border: 1px solid #dddddd;
