@@ -74,7 +74,7 @@ section {
 .thumbnail {
     float: left;
     position: relative;
-    margin: auto;
+    margin: 18px;
 }
 
 .text-box {
