@@ -62,7 +62,7 @@ h2, h3 {
     color: #fff;
     overflow: auto;
     border-bottom:  2px solid #ccc;
-    /* position: fixed; */
+    position: fixed; 
     width: 100%;
 }
 
@@ -109,15 +109,64 @@ nav a:first-child {
 }
 
 
+/*  MAIN SECTION */
+
+#main-container {
+    padding-top:  30px;
+}
+
+/*
+*  width: 100%; -- Items in main section should take up 100% of their container (the div)
+*  max-width: 650px; -- no mater how big the browser gets, max width should only go up to 650px;
+*/
+.main-section {
+    background: #fff;
+    padding: 30px;
+    margin: 0 0 40px 0;
+    width: 100%;
+    max-width: 650px;
+    float: left;
+    border: 1px solid #ddd;
+}
+
+
+.auth-image {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    float: left;
+    margin-right: 25px;
+}
 
 
 
+/*  SIDEBAR */
+.sidebar {
+    background: #fff;
+    padding: 30px;
+    width:  100px;
+    max-width:  270px;
+    float: right;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
 
+h3, sidebar, h2 {
+    border-bottom:  2px solid #eee;
+    padding-bottom:  20px;
+    margin-bottom:  15px;
+    line-height: 22px;
+}
 
+.social {
+    width:  62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+}
 
-
-
-
-
+.social:last-child {
+    margin-right: 0;
+}
 
 
