@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Bootstrap-Portfolio/favicon.png at master · selmadelgado/Bootstrap-Portfolio</title>
+  <title>Bootstrap-Portfolio/concrete_seamless.png at master · selmadelgado/Bootstrap-Portfolio</title>
     <meta name="description" content="Portfolio made using Bootstrap">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/15266541?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="selmadelgado/Bootstrap-Portfolio" /><meta property="og:url" content="https://github.com/selmadelgado/Bootstrap-Portfolio" /><meta property="og:description" content="Bootstrap-Portfolio - Portfolio made using Bootstrap" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mjk4OTA2MjA1OmIwNzNmMTFmMjIwODQyMWMyYWE3ZGQ3OTE2YTJiYmQ1ZDEzZWRhYjYyOTY3NDdiNmYxOWQ1MThiZmQ5ZWNjZmQ=--916c21e12b0ede36a40f91aadf20b9ec5c5ebae9">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mjk4OTA2MjA1OjhiY2NmN2ZmMmMwYTQzYWVjOGRmNDRiY2JjMGU3MTdlNDNlNThlYzk3NmI2OGQ5MjNmNzYxZDk2YjA2ZDFjZjc=--26f869833a8e5904b4932deb67ab00e99ce26350">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="DC0C:741B:90D385F:DE07723:5B5D33E0" data-pjax-transient>
+  <meta name="request-id" content="DC0C:741B:90D402C:DE08B1B:5B5D33FF" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DC0C:741B:90D385F:DE07723:5B5D33E0" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="15266541" /><meta name="octolytics-actor-login" content="selmadelgado" /><meta name="octolytics-actor-hash" content="877f95d48aa9ae67e513e3dace83e5439738972b833ba977fb800ccb57cb9a7e" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DC0C:741B:90D402C:DE08B1B:5B5D33FF" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="15266541" /><meta name="octolytics-actor-login" content="selmadelgado" /><meta name="octolytics-actor-hash" content="877f95d48aa9ae67e513e3dace83e5439738972b833ba977fb800ccb57cb9a7e" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -68,7 +68,7 @@
     <meta name="user-login" content="selmadelgado">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NGVlMWI0ODY1MTZmZTk5NWIzMDU4NmUxMzcwNDc5YTZlNGMwZTEwMzQ1ODE0NTQ1Y2I2MTYyYWQ4MDY5YjIyY3x7InJlbW90ZV9hZGRyZXNzIjoiNzAuMTEyLjcuMTMyIiwicmVxdWVzdF9pZCI6IkRDMEM6NzQxQjo5MEQzODVGOkRFMDc3MjM6NUI1RDMzRTAiLCJ0aW1lc3RhbXAiOjE1MzI4MzQ4MDAsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="ZGVlZGRmNGE1NjZlZWUwM2M1NGI4MTQyOTlhMzFmZTM2YTI0MTI3MzI1OTQzOTg5ODMzMTJmYjQ3MmIyN2ZkYXx7InJlbW90ZV9hZGRyZXNzIjoiNzAuMTEyLjcuMTMyIiwicmVxdWVzdF9pZCI6IkRDMEM6NzQxQjo5MEQ0MDJDOkRFMDhCMUI6NUI1RDMzRkYiLCJ0aW1lc3RhbXAiOjE1MzI4MzQ4MjEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_SEARCH,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,MARKETPLACE_RETARGETING,UNSELECTABLE_DIFF_MARKERS">
 
@@ -84,7 +84,7 @@
   <meta name="octolytics-dimension-user_id" content="15266541" /><meta name="octolytics-dimension-user_login" content="selmadelgado" /><meta name="octolytics-dimension-repository_id" content="142065295" /><meta name="octolytics-dimension-repository_nwo" content="selmadelgado/Bootstrap-Portfolio" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="142065295" /><meta name="octolytics-dimension-repository_network_root_nwo" content="selmadelgado/Bootstrap-Portfolio" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/selmadelgado/Bootstrap-Portfolio/blob/master/assets/images/favicon.png" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/selmadelgado/Bootstrap-Portfolio/blob/master/assets/images/concrete_seamless.png" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -153,7 +153,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=FUPEEb6wawgQznCKPzTKC3RTBqQZpYtYfUf1h31IvMHqJl0jtX7xc7M4nUdXvXqSavw3RJBE8RYlSfCE3ZvLZg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=SSqDPpL9osj5x3joYEbxSDEahl/o/ip/pH3V8CZxvFi2TxoMmTM4s1oxlSUIz0HRL7W3v2EfUDH8c9DzhqLL/w=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -303,7 +303,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/Kz2Tapqcm4O7WmIhbSpCUhq4fKrku1FzX8x9YkoxFlBsfLsDy4vAqH2ML6MJZqOumhv9ZbCsgNmXWpVj9it9Q==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oxemWEHiINaIPUCDTRD+azKjx6Uv8QpvQuVrKShKtHceCqL55KZ9uicmGbVEgc3swKFJohKhVSnpxzCJLrrd2w==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -316,7 +316,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="n3WvbnfVGXw/781S2ly8jOgxTmfxCqcC6DLUkpMHRAAiaKvP0pFEEJD0lGTTzY8LGjPAYMxa+ERDEI8ylfctrA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tYk6wZSwxXhs6v/6tcJZZQFL4sizNcgkMDJgyarJJlcIlD5gMfSYFMPxpsy8U2ri80lsz45ll2KbEDtprDlP+w==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -354,7 +354,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PCJcycMV0Cxq+VJLjzvn2MDBFsambZJpDDTTsO2kqhKBQHlSlIkaC6STS8+4l5WV98hzmogpIdJqrJA+ruuDTA==" />      <input type="hidden" name="repository_id" id="repository_id" value="142065295" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gdq1vgFSbsawmzy65rS8BKFOZlgdMKLuYJP68GRYXmY8uJAlVs6k4X7xJT7RGM5JlkcDBDN0EVUGC7l+Jxd3OA==" />      <input type="hidden" name="repository_id" id="repository_id" value="142065295" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/selmadelgado/Bootstrap-Portfolio/subscription"
@@ -434,7 +434,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/selmadelgado/Bootstrap-Portfolio/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ar3kTbstVot3gra5p1Ac1e1O2n75EtkQybWP6cjtNIgu8jqoFT3IUz+f3z+ch+OH321Dhxxx6nWQbB3qaeUFZw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/selmadelgado/Bootstrap-Portfolio/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5bO91sJZ6Je7Mq78xM6sRVqxJHFT/T2s53Ze62R4IKfJ/GMzbEl2T/Mvx3r/GVMXaJK9iLaeDsm+r8zoxXARSA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -449,7 +449,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/selmadelgado/Bootstrap-Portfolio/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1+SQODJPAyCumhDgzZbVDHiCBvGpK8EC0EJP4caElcYdziObT9YdF0haLLE06OXdcZezt7A5P0p1JxP7ZG3XWQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/selmadelgado/Bootstrap-Portfolio/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="t2KV1rsLOuubd5Lah61t96eE5/BzKRaG+0i+ib8z5Ql9SCZ1xpIk3H23rot+010mrpFStmo76M5eLeKTHdqnlg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -564,9 +564,9 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/selmadelgado/Bootstrap-Portfolio/blob/d81027a0bfc4b6f335d33f90092ad447f1122c33/assets/images/favicon.png">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/selmadelgado/Bootstrap-Portfolio/blob/d81027a0bfc4b6f335d33f90092ad447f1122c33/assets/images/concrete_seamless.png">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:3b9c108b48d6c353ed03800bca570609 -->
+  <!-- blob contrib key: blob_contributors:v21:5b323245bb0ba266165386699decbd63 -->
 
   
 
@@ -610,7 +610,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/selmadelgado/Bootstrap-Portfolio/blob/master/assets/images/favicon.png"
+               href="/selmadelgado/Bootstrap-Portfolio/blob/master/assets/images/concrete_seamless.png"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -621,7 +621,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/selmadelgado/Bootstrap-Portfolio/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="pjj86mPjRS60xVlJB4MZ7GTObxmP5kt1+o9vR5A+8MwmoS8x9BotqRqZj2Wpyo4ZeY7RgmrcoatYDOlm/dOZqg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/selmadelgado/Bootstrap-Portfolio/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HiNTAhSXXe/ufPdNNj/jpeOB+PTAa13gIZihN137hXGeuoDZg241aEAgIWGYdnRQ/sFGbyVRtz6DGycWMBbsFw==" />
           <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -629,7 +629,7 @@
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
             <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path" id="path" value="assets/images/favicon.png">
+            <input type="hidden" name="path" id="path" value="assets/images/concrete_seamless.png">
 </form>
       </div>
 
@@ -658,12 +658,12 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/selmadelgado/Bootstrap-Portfolio"><span>Bootstrap-Portfolio</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/selmadelgado/Bootstrap-Portfolio/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/selmadelgado/Bootstrap-Portfolio/tree/master/assets/images"><span>images</span></a></span><span class="separator">/</span><strong class="final-path">favicon.png</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/selmadelgado/Bootstrap-Portfolio"><span>Bootstrap-Portfolio</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/selmadelgado/Bootstrap-Portfolio/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/selmadelgado/Bootstrap-Portfolio/tree/master/assets/images"><span>images</span></a></span><span class="separator">/</span><strong class="final-path">concrete_seamless.png</strong>
     </div>
   </div>
 
 
-  <include-fragment src="/selmadelgado/Bootstrap-Portfolio/contributors/master/assets/images/favicon.png" class="commit-tease commit-loader">
+  <include-fragment src="/selmadelgado/Bootstrap-Portfolio/contributors/master/assets/images/concrete_seamless.png" class="commit-tease commit-loader">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -680,18 +680,18 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/selmadelgado/Bootstrap-Portfolio/raw/master/assets/images/favicon.png">Download</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/selmadelgado/Bootstrap-Portfolio/commits/master/assets/images/favicon.png">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/selmadelgado/Bootstrap-Portfolio/raw/master/assets/images/concrete_seamless.png">Download</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/selmadelgado/Bootstrap-Portfolio/commits/master/assets/images/concrete_seamless.png">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-mac://openRepo/https://github.com/selmadelgado/Bootstrap-Portfolio?branch=master&amp;filepath=assets%2Fimages%2Ffavicon.png"
+           href="github-mac://openRepo/https://github.com/selmadelgado/Bootstrap-Portfolio?branch=master&amp;filepath=assets%2Fimages%2Fconcrete_seamless.png"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:mac">
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/selmadelgado/Bootstrap-Portfolio/delete/master/assets/images/favicon.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1WaWyZYJnciwto8yZ+iu1pwJOUCLuV235qN+WsJGnCmKdFQgbWChy2vLknUd8DF/Yv+ddhXjPG/rdWJdoy2TLA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/selmadelgado/Bootstrap-Portfolio/delete/master/assets/images/concrete_seamless.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="anm/G3hhjgwRdK+E9XvvzPEq2FN1sA5TYIasBs7D+nXTzgY6azbLKLE81LiHc0Csu4ahxsOfphspJpACkxTauA==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -699,7 +699,7 @@
 </form>  </div>
 
   <div class="file-info">
-    1.13 KB
+    79.3 KB
   </div>
 </div>
 
@@ -707,7 +707,7 @@
 
   <div itemprop="text" class="blob-wrapper data type-text">
       <div class="image">
-          <span class="border-wrap"><img src="/selmadelgado/Bootstrap-Portfolio/blob/master/assets/images/favicon.png?raw=true" alt="favicon.png"></span>
+          <span class="border-wrap"><img src="/selmadelgado/Bootstrap-Portfolio/blob/master/assets/images/concrete_seamless.png?raw=true" alt="concrete_seamless.png"></span>
       </div>
   </div>
 
@@ -736,7 +736,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.28828s from unicorn-7f4d6bc9bf-p7zcb">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.30749s from unicorn-5f98c699cd-4dkrc">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
